@@ -1,0 +1,46 @@
+button {
+  position: relative;
+  top: 10px;
+}
+
+section {
+  margin: 40px;
+}
+
+.city-name {
+  font-size: 48px;
+}
+
+.temp-now {
+  font-size: 36px;
+}
+
+.metric {
+  text-align: right;
+}
+
+.weather-now {
+  text-align: center;
+}
+
+.sun-icon {
+  font-size: 100px;
+  color: orange;
+}
+
+.dewdrop-icon,
+.moisture {
+  color: #10b4ef;
+}
+
+.high {
+  color: red;
+}
+
+.low {
+  color: blue;
+}
+
+.cell-placeholder {
+  color: white;
+}
