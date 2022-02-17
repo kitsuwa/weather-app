@@ -44,3 +44,7 @@ section {
 .cell-placeholder {
   color: white;
 }
+
+.link {
+  text-align: center;
+}
